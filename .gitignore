@@ -1,0 +1,14 @@
+node_modules/
+auto client/node_modules/
+auto server/node_modules/
+auto serevr/uploads/
+.env
+.DS_Store
+
+manual client/node_modules/
+manual server/node_modules/
+manual serevr/uploads/
+
+music client/node_modules/
+music server/node_modules/
+music serevr/uploads/
